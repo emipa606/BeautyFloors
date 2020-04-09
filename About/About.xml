@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>BeautyFloors (Continued)</name>
+  	<packageId>Mlie.BeautyFloors</packageId>
+	<author>swefan</author>
+	<url>https://github.com/emipa606/BeautyFloors</url>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies />
+	<loadAfter />
+	<description>Update of swefans mod for RimWorld 1.1
+https://ludeon.com/forums/index.php?topic=35547.0
+
+[img]https://i.imgur.com/GYswkZ7.png[/img]
+
+Support-chat:
+https://invite.gg/mlie
+
+Non-steam version:
+https://github.com/emipa606/BeautyFloors
+	
+--- Original Description ---
+All the floors have at least 1 in the beauty stats, but they need a lot of resources and a lot of work, so I think it's balanced. 
+The novelty are the leather floors (at least I have never seen a mod with leather floors)
+
+**Wood:
+*Horizontal wood + burned texture
+*Vertical wood + burned texture
+*Mosaic wood + burned texture
+*Diagonal wood + burned texture
+**Stone:
+*Marble lux
+*Limestone lux
+*Sandstone tile
+*Slate tile
+*Granite tile
+*Sandstone and Slate
+*Slate and Limestone
+*Granite and Marble
+*Painted Stone
+*Painted Stone b
+**Jade:
+*Jade tile
+*Jade large tile
+**Metal:
+*Plasteel bars mosaic
+*Plasteel plates
+*Sterile lux
+*Royal Gold
+*Royal Silver
+**Leather:
+*Bluefur tile
+*Camel hide tile
+*Light leather tile
+*Thrumbo fur tile
+*Lizard skin tile
+*Bird skin tile
+*Plain leather tile
+*Rhinoceros leather tile
+*Panthera fur tile
+*Pig skin tile
+*Bear skin tile
+*Carved Leather (Lion)
+*Carved Leather (Multi256)
+</description>
+</ModMetaData>

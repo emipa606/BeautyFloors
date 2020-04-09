@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef Name="BurnedFloorBase" Abstract="True">
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <pathCost>9</pathCost>
+    <fertility>0</fertility>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <statBases>
+      <Beauty>-6</Beauty>
+    </statBases>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>BurnedWoodPlankFloor</defName>
+    <label>burned wood floor</label>
+    <renderPrecedence>251</renderPrecedence>
+    <description>Burned-out wood plank flooring.</description>
+    <texturePath>Terrain/Surfaces/BurnedWoodFloor</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>BurnParquetFloor1</defName>
+    <label>burned wood floor</label>
+    <renderPrecedence>252</renderPrecedence>
+    <description>Burned-out wood plank flooring.</description>
+    <texturePath>Terrain/Surfaces/BurnParquetFloor1</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>BurnParquetFloor2</defName>
+    <label>burned wood floor</label>
+    <renderPrecedence>253</renderPrecedence>
+    <description>Burned-out wood plank flooring.</description>
+    <texturePath>Terrain/Surfaces/BurnParquetFloor2</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>BurnParquetFloor3</defName>
+    <label>burned wood floor</label>
+    <renderPrecedence>254</renderPrecedence>
+    <description>Burned-out wood plank flooring.</description>
+    <texturePath>Terrain/Surfaces/BurnParquetFloor3</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>BurnParquetFloor4</defName>
+    <label>burned wood floor</label>
+    <renderPrecedence>255</renderPrecedence>
+    <description>Burned-out wood plank flooring.</description>
+    <texturePath>Terrain/Surfaces/BurnParquetFloor4</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>BurnedCarpet</defName>
+    <label>burned carpet</label>
+    <renderPrecedence>201</renderPrecedence>
+    <description>Burned-out carpet.</description>
+    <texturePath>Terrain/Surfaces/BurnedCarpet</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+</Defs>

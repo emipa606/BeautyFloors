@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>WoodPlanks</defName>
+    <label>wood planks</label>
+    <description>Wooden planks for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/WoodPlankslee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Wood_Drop</soundInteract>
+    <soundDrop>Wood_Drop</soundDrop>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+      <Flammability>1.0</Flammability>
+      <MaxHitPoints>140</MaxHitPoints>
+      <Mass>0.4</Mass>
+      <DeteriorationRate>1</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>BluefurTile</defName>
+    <label>bluefur tile</label>
+    <description>Bluefur tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Bluefurlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>PlainleatherTile</defName>
+    <label>plain leather tile</label>
+    <description>Plain leather tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Plainleatherlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>CamelhideTile</defName>
+    <label>camel hide tile</label>
+    <description>Camel hide tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Camelhidelee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>LightleatherTile</defName>
+    <label>light leather tile</label>
+    <description>Light leather tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Lightleatherlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>ThrumbofurTile</defName>
+    <label>thrumbo fur tile</label>
+    <description>Thrumbo fur tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Thrumlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>BirdskinTile</defName>
+    <label>bird skin tile</label>
+    <description>Bird skin tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Birdskinlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>LizardskinTile</defName>
+    <label>lizard skin tile</label>
+    <description>Lizard skin tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Lizardskinlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>BearskinTile</defName>
+    <label>bear skin tile</label>
+    <description>Bear skin tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Bearlee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>PantherafurTile</defName>
+    <label>panthera fur tile</label>
+    <description>Panthera fur tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Pantheralee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>PigskinTile</defName>
+    <label>pig skin tile</label>
+    <description>Pig skin tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Piglee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>RhinocerosleatherTile</defName>
+    <label>rhinoceros leather tile</label>
+    <description>Rhinoceros leather tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Rhinolee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>3.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>CarvedLeather</defName>
+    <label>carved leather</label>
+    <description>Carved leather tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/carvedlogcraft</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>4.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>PaintedStone</defName>
+    <label>painted stone</label>
+    <description>Painted stone tile for make beautiful floors.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/paintedtile</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>4.0</MarketValue>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

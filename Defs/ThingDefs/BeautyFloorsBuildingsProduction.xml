@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BenchBase">
+    <defName>Beautybench</defName>
+    <label>Beauty bench</label>
+    <thingClass>Building_WorkTable</thingClass>
+    <description>A bench for make tile from leathers and planks from wood log.</description>
+    <graphicData>
+      <texPath>Things/Building/Production/Beautybench</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3.5,1.5)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <costList>
+      <WoodLog>50</WoodLog>
+      <Steel>40</Steel>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>900</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <size>(3,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>60</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <recipes>
+      <li>MakeWoodPlanks</li>
+      <li>MakeBluefurTile</li>
+      <li>MakePlainleatherTile</li>
+      <li>MakeCamelhideTile</li>
+      <li>MakeLightleatherTile</li>
+      <li>MakeThrumbofurTile</li>
+      <li>MakeBirdskinTile</li>
+      <li>MakeLizardskinTile</li>
+      <li>MakeBearskinTile</li>
+      <li>MakePantherafurTile</li>
+      <li>MakePigskinTile</li>
+      <li>MakeRhinocerosleatherTile</li>
+      <li>MakeCarvedLeather</li>
+      <li>MakePaintedStone</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef Name="BFloor_WoodFloors" Abstract="True">
+	<designatorDropdown>BeautyFloorsWood</designatorDropdown>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <designationCategory>Floors</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructWood</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef ParentName="BFloor_WoodFloors">
+    <defName>FloorWoodA</defName>
+    <label>Vertical wood</label>
+    <description>Simple but beautiful floor made with clear wooden boards.</description>
+    <statBases>
+      <WorkToBuild>140</WorkToBuild>
+      <Flammability>0.22</Flammability>
+      <Beauty>1</Beauty>
+    </statBases>
+    <costList>
+      <WoodPlanks>6</WoodPlanks>
+    </costList>
+    <renderPrecedence>250</renderPrecedence>
+    <texturePath>Terrain/Surfaces/ParquetFloor1</texturePath>
+    <burnedDef>BurnParquetFloor1</burnedDef>
+  </TerrainDef>
+  <TerrainDef ParentName="BFloor_WoodFloors">
+    <defName>FloorWoodB</defName>
+    <label>Mosaic wood</label>
+    <description>Wooden tile mosaic, beautiful and cheap.</description>
+    <statBases>
+      <WorkToBuild>600</WorkToBuild>
+      <Flammability>0.22</Flammability>
+      <Beauty>1</Beauty>
+    </statBases>
+    <costList>
+      <WoodPlanks>5</WoodPlanks>
+    </costList>
+    <renderPrecedence>251</renderPrecedence>
+    <texturePath>Terrain/Surfaces/ParquetFloor2</texturePath>
+    <burnedDef>BurnParquetFloor2</burnedDef>
+  </TerrainDef>
+  <TerrainDef ParentName="BFloor_WoodFloors">
+    <defName>FloorWoodC</defName>
+    <label>Horizontal wood</label>
+    <description>Wooden boards, made with the finest wood, beautiful colors.</description>
+    <statBases>
+      <WorkToBuild>160</WorkToBuild>
+      <Flammability>0.22</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <costList>
+      <WoodPlanks>8</WoodPlanks>
+    </costList>
+    <renderPrecedence>252</renderPrecedence>
+    <texturePath>Terrain/Surfaces/ParquetFloor3</texturePath>
+    <burnedDef>BurnParquetFloor3</burnedDef>
+  </TerrainDef>
+  <TerrainDef ParentName="BFloor_WoodFloors">
+    <defName>FloorWoodD</defName>
+    <label>Diagonal wood</label>
+    <description>Large wooden boards, made with dark wood.</description>
+    <statBases>
+      <WorkToBuild>150</WorkToBuild>
+      <Flammability>0.22</Flammability>
+      <Beauty>1</Beauty>
+    </statBases>
+    <costList>
+      <WoodPlanks>6</WoodPlanks>
+    </costList>
+    <renderPrecedence>253</renderPrecedence>
+    <texturePath>Terrain/Surfaces/ParquetFloor4</texturePath>
+    <burnedDef>BurnParquetFloor4</burnedDef>
+  </TerrainDef>
+</Defs>

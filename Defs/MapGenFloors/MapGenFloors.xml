@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef Name="AncientSandstoneTile">
+    <defName>AncientSandstoneTile</defName>
+    <label>Ancient Sandstone Tile</label>
+    <description>Tile made of sandstone, beautiful warm colors.</description>
+    <texturePath>Terrain/Surfaces/AncientStone3</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksSandstone>4</BlocksSandstone>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientGraniteTile">
+    <defName>AncientGraniteTile</defName>
+    <label>Ancient Granite Tile</label>
+    <description>Tile made of granite, very smooth..</description>
+    <texturePath>Terrain/Surfaces/AncientStone1</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksGranite>4</BlocksGranite>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientSlateTile">
+    <defName>AncientSlateTile</defName>
+    <label>Ancient Slate Tile</label>
+    <description>Tile made of slate, very dark and elegant.</description>
+    <texturePath>Terrain/Surfaces/AncientStone5</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>1600</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksSlate>4</BlocksSlate>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientLimestoneTile">
+    <defName>AncientLimestoneTile</defName>
+    <label>Ancient Limestone Lux</label>
+    <description>Mosaic made with limestone tiles with a central brighter tile.</description>
+    <texturePath>Terrain/Surfaces/AncientStone</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>2600</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksLimestone>4</BlocksLimestone>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientMarbletile">
+    <defName>AncientMarbletile</defName>
+    <label>Ancient Marble Lux</label>
+    <description>Mosaic made with marble tiles with a central brighter tile.</description>
+    <texturePath>Terrain/Surfaces/AncientStone2</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>2600</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksMarble>4</BlocksMarble>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientSlateLime">
+    <defName>AncientSlateLime</defName>
+    <label>Ancient Slate and Limestone</label>
+    <description>Tiles made of slate and limestone.</description>
+    <texturePath>Terrain/Surfaces/AncientStone4</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>2400</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksSlate>1</BlocksSlate>
+      <BlocksLimestone>4</BlocksLimestone>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="Ancientsandslate">
+    <defName>Ancientsandslate</defName>
+    <label>Ancient Sandstone and Limestone</label>
+    <description>Ancient Tiles made of sandstone and limestone.</description>
+    <texturePath>Terrain/Surfaces/AncientStone6</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <WorkToBuild>2400</WorkToBuild>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <BlocksSandstone>4</BlocksSandstone>
+      <BlocksSlate>2</BlocksSlate>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientSterilelux">
+    <defName>AncientSterilelux</defName>
+    <label>Ancient Sterile Lux</label>
+    <description>Ancient Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</description>
+    <texturePath>Terrain/Surfaces/AncientSterile</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <Cleanliness>0.6</Cleanliness>
+      <WorkToBuild>3800</WorkToBuild>
+      <Beauty>6</Beauty>
+    </statBases>
+    <costList>
+      <Steel>3</Steel>
+      <Silver>10</Silver>
+      <Plasteel>1</Plasteel>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructMetal</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <TerrainDef Name="AncientSterile">
+    <defName>AncientSterile</defName>
+    <label>Ancient Sterile</label>
+    <description>Ancient sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</description>
+    <texturePath>Terrain/Surfaces/AncientSterile2</texturePath>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <statBases>
+      <Cleanliness>0.6</Cleanliness>
+      <WorkToBuild>3800</WorkToBuild>
+      <Beauty>6</Beauty>
+    </statBases>
+    <costList>
+      <Steel>3</Steel>
+      <Silver>10</Silver>
+    </costList>
+    <fertility>0</fertility>
+    <constructEffect>ConstructMetal</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+</Defs>

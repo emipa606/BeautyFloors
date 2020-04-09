@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>MakeWoodPlanks</defName>
+    <label>make wood planks</label>
+    <description>Splitting logs to planks for make floors.</description>
+    <jobString>Splitting logs.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WoodLog</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <WoodPlanks>6</WoodPlanks>
+    </products>
+    <skillRequirements>
+      <Crafting>5</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeBluefurTile</defName>
+    <label>make bluefur tiles</label>
+    <description>Cut bluefur to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Bluefur</li>
+          </thingDefs>
+        </filter>
+        <count>9</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Bluefur</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BluefurTile>9</BluefurTile>
+    </products>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakePlainleatherTile</defName>
+    <label>make plainleather tiles</label>
+    <description>Cut plainleather to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Plain</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Plain</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <PlainleatherTile>8</PlainleatherTile>
+    </products>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeCamelhideTile</defName>
+    <label>make camelhide tiles</label>
+    <description>Cut camelhide to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Camel</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Camel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <CamelhideTile>8</CamelhideTile>
+    </products>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeLightleatherTile</defName>
+    <label>make lightleather tiles</label>
+    <description>Cut lightleather to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Light</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Light</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <LightleatherTile>8</LightleatherTile>
+    </products>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeThrumbofurTile</defName>
+    <label>make thrumbofur tiles</label>
+    <description>Cut thrumbofur to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Thrumbo</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Thrumbo</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <ThrumbofurTile>7</ThrumbofurTile>
+    </products>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeBirdskinTile</defName>
+    <label>make birdskin tiles</label>
+    <description>Cut birdskin to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Bird</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Bird</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BirdskinTile>4</BirdskinTile>
+    </products>
+    <skillRequirements>
+      <Crafting>8</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeLizardskinTile</defName>
+    <label>make lizardskin tiles</label>
+    <description>Cut lizardskin to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Lizard</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Lizard</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <LizardskinTile>4</LizardskinTile>
+    </products>
+    <skillRequirements>
+      <Crafting>8</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeBearskinTile</defName>
+    <label>make bearskin tiles</label>
+    <description>Cut bearskin to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Bear</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Bear</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BearskinTile>7</BearskinTile>
+    </products>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakePantherafurTile</defName>
+    <label>make pantherafur tiles</label>
+    <description>Cut panthera fur to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Panthera</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Panthera</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <PantherafurTile>7</PantherafurTile>
+    </products>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakePigskinTile</defName>
+    <label>make pigskin tiles</label>
+    <description>Cut pigskin to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Pig</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Pig</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <PigskinTile>8</PigskinTile>
+    </products>
+    <skillRequirements>
+      <Crafting>6</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeRhinocerosleatherTile</defName>
+    <label>make rhinocerosleather tiles</label>
+    <description>Cut rhinoceros leather to tiles for make floors.</description>
+    <jobString>Cutting leather.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Rhinoceros</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Rhinoceros</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RhinocerosleatherTile>7</RhinocerosleatherTile>
+    </products>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakeCarvedLeather</defName>
+    <label>make carved leather</label>
+    <description>Carve leather for make tiles.</description>
+    <jobString>Carving leather.</jobString>
+    <workAmount>300</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Plain</li>
+            <li>Leather_Light</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Leather_Plain</li>
+        <li>Leather_Light</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <CarvedLeather>1</CarvedLeather>
+    </products>
+    <skillRequirements>
+      <Crafting>12</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MakePaintedStone</defName>
+    <label>make painted stone tile</label>
+    <description>Painted stone for make floors.</description>
+    <jobString>Painting stone.</jobString>
+    <workAmount>300</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksSandstone</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksGranite</li>
+            <li>BlocksSlate</li>
+            <li>BlocksMarble</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksSandstone</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksGranite</li>
+        <li>BlocksSlate</li>
+        <li>BlocksMarble</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <PaintedStone>1</PaintedStone>
+    </products>
+    <skillRequirements>
+      <Crafting>12</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+</Defs>

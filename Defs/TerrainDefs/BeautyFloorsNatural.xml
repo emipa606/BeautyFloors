@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TerrainDef Name="BFloor_NaturalFloors" Abstract="True">
+		<designatorDropdown>BeautyFloorsNatural</designatorDropdown>
+		<designationCategory>Floors</designationCategory>
+		<fertility>0</fertility>
+		<constructEffect>ConstructDirt</constructEffect>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<affordances>
+		  <li>Light</li>
+		  <li>Medium</li>
+		  <li>Heavy</li>
+		</affordances>
+		<edgeType>Hard</edgeType>
+		<layerable>true</layerable>
+	</TerrainDef>
+  <TerrainDef Name="AFloorJade" ParentName="BFloor_NaturalFloors">
+    <defName>AFloorJade</defName>
+    <label>Jade Large Tile</label>
+    <description>Beautiful floor made with jade slabs, the slabs are carefully chosen to achieve a uniform effect.</description>
+    <texturePath>Terrain/Surfaces/jadefloooor11</texturePath>
+    <statBases>
+      <WorkToBuild>1800</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <Jade>11</Jade>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="BFloorJade" ParentName="BFloor_NaturalFloors">
+    <defName>BFloorJade</defName>
+    <label>Jade Tile</label>
+    <description>Beautiful floor made with jade tiles.</description>
+    <texturePath>Terrain/Surfaces/jadefloooor01</texturePath>
+    <statBases>
+      <WorkToBuild>2600</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <Jade>10</Jade>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="Camelhidelele" ParentName="BFloor_NaturalFloors">
+    <defName>Camelhidelele</defName>
+    <label>Camel hide floor</label>
+    <description>Beautiful floor made with Camel hide.</description>
+    <texturePath>Terrain/Surfaces/camelhideFL</texturePath>
+    <statBases>
+      <WorkToBuild>1700</WorkToBuild>
+      <Beauty>3</Beauty>
+    </statBases>
+    <costList>
+      <CamelhideTile>8</CamelhideTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Bluefloorlele" ParentName="BFloor_NaturalFloors">
+    <defName>Bluefloorlele</defName>
+    <label>Bluefur floor</label>
+    <description>Beautiful floor made with Bluefur.</description>
+    <texturePath>Terrain/Surfaces/BluefurFL</texturePath>
+    <statBases>
+      <WorkToBuild>1700</WorkToBuild>
+      <Beauty>3</Beauty>
+    </statBases>
+    <costList>
+      <BluefurTile>9</BluefurTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Lightleatherlele" ParentName="BFloor_NaturalFloors">
+    <defName>Lightleatherlele</defName>
+    <label>Light leather floor</label>
+    <description>Beautiful floor made with Light leather.</description>
+    <texturePath>Terrain/Surfaces/LightleatherFL</texturePath>
+    <statBases>
+      <WorkToBuild>1700</WorkToBuild>
+      <Beauty>3</Beauty>
+    </statBases>
+    <costList>
+      <LightleatherTile>8</LightleatherTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Thrumbole" ParentName="BFloor_NaturalFloors">
+    <defName>Thrumbole</defName>
+    <label>Thrumbo fur floor</label>
+    <description>Beautiful floor made with Thrumbo fur.</description>
+    <texturePath>Terrain/Surfaces/thrumfurFL</texturePath>
+    <statBases>
+      <WorkToBuild>1800</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <ThrumbofurTile>7</ThrumbofurTile>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="Plainleatherlele" ParentName="BFloor_NaturalFloors">
+    <defName>Plainleatherlele</defName>
+    <label>Plain leather floor</label>
+    <description>Beautiful floor made with Plain leather.</description>
+    <texturePath>Terrain/Surfaces/plainleatherFL</texturePath>
+    <statBases>
+      <WorkToBuild>1700</WorkToBuild>
+      <Beauty>3</Beauty>
+    </statBases>
+    <costList>
+      <PlainleatherTile>8</PlainleatherTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Birdskinlele" ParentName="BFloor_NaturalFloors">
+    <defName>Birdskinlele</defName>
+    <label>Bird skin floor</label>
+    <description>Beautiful floor made with Bird skin.</description>
+    <texturePath>Terrain/Surfaces/birdskinFL</texturePath>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <Beauty>4</Beauty>
+    </statBases>
+    <costList>
+      <BirdskinTile>4</BirdskinTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Lizardskinlele" ParentName="BFloor_NaturalFloors">
+    <defName>Lizardskinlele</defName>
+    <label>Lizard skin floor</label>
+    <description>Beautiful floor made with Lizard skin.</description>
+    <texturePath>Terrain/Surfaces/lizardskinFL</texturePath>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <Beauty>4</Beauty>
+    </statBases>
+    <costList>
+      <LizardskinTile>4</LizardskinTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Bearskinlele" ParentName="BFloor_NaturalFloors">
+    <defName>Bearskinlele</defName>
+    <label>Bear skin floor</label>
+    <description>Beautiful floor made with Bear skin.</description>
+    <texturePath>Terrain/Surfaces/bearskinFL</texturePath>
+    <statBases>
+      <WorkToBuild>1800</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <BearskinTile>8</BearskinTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Pantherafurlele" ParentName="BFloor_NaturalFloors">
+    <defName>Pantherafurlele</defName>
+    <label>Panthera fur floor</label>
+    <description>Beautiful floor made with Panthera fur.</description>
+    <texturePath>Terrain/Surfaces/pantherafurFL</texturePath>
+    <statBases>
+      <WorkToBuild>1800</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <PantherafurTile>8</PantherafurTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Pigskinlele" ParentName="BFloor_NaturalFloors">
+    <defName>Pigskinlele</defName>
+    <label>Pig skin floor</label>
+    <description>Beautiful floor made with Pig skin.</description>
+    <texturePath>Terrain/Surfaces/pigskinFL</texturePath>
+    <statBases>
+      <WorkToBuild>1700</WorkToBuild>
+      <Beauty>3</Beauty>
+    </statBases>
+    <costList>
+      <PigskinTile>8</PigskinTile>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Rhinocerosleatherlele" ParentName="BFloor_NaturalFloors">
+    <defName>Rhinocerosleatherlele</defName>
+    <label>Rhinoceros leather floor</label>
+    <description>Beautiful floor made with Rhinoceros leather.</description>
+    <texturePath>Terrain/Surfaces/rhinocerosleatherFL</texturePath>
+    <statBases>
+      <WorkToBuild>1800</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <RhinocerosleatherTile>8</RhinocerosleatherTile>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="carvedleather" ParentName="BFloor_NaturalFloors">
+    <defName>carvedleather</defName>
+    <label>carved leather</label>
+    <description>Beautiful floor made with carved leather.</description>
+    <texturePath>Terrain/Surfaces/1carvedlog</texturePath>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <CarvedLeather>1</CarvedLeather>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="multicarvedleather" ParentName="BFloor_NaturalFloors">
+    <defName>multicarvedleather</defName>
+    <label>multi carved leather</label>
+    <description>Beautiful floor made with carved leather, 256 different tile.</description>
+    <texturePath>Terrain/Surfaces/crved256</texturePath>
+    <statBases>
+      <WorkToBuild>2900</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <CarvedLeather>1</CarvedLeather>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+</Defs>

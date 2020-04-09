@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TerrainDef Name="BFloor_MetalFloors" Abstract="True">
+		<designatorDropdown>BeautyFloorsMetal</designatorDropdown>
+		<designationCategory>Floors</designationCategory>
+		<fertility>0</fertility>
+		<constructEffect>ConstructMetal</constructEffect>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<affordances>
+		  <li>Light</li>
+		  <li>Medium</li>
+		  <li>Heavy</li>
+		</affordances>
+		<edgeType>Hard</edgeType>
+		<layerable>true</layerable>
+	</TerrainDef>
+	
+  <TerrainDef Name="BFloorPlasteel" ParentName="BFloor_MetalFloors">
+    <defName>BFloorPlasteel</defName>
+    <label>Plasteel Bars Mosaic</label>
+    <description>Expensive floor made with plasteel bars, requires a lot of work to build but at least it's beautiful and durable.</description>
+    <texturePath>Terrain/Surfaces/plastbars</texturePath>
+    <statBases>
+      <WorkToBuild>2600</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <Plasteel>10</Plasteel>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="AFloorPlasteel" ParentName="BFloor_MetalFloors">
+    <defName>AFloorPlasteel</defName>
+    <label>Plasteel plates</label>
+    <description>Floor made with plasteel plates, less expensive than the one made with bars, but also less beautiful.</description>
+    <texturePath>Terrain/Surfaces/plastplat</texturePath>
+    <statBases>
+      <WorkToBuild>1600</WorkToBuild>
+      <Beauty>3</Beauty>
+    </statBases>
+    <costList>
+      <Plasteel>6</Plasteel>
+    </costList>
+  </TerrainDef>
+  <TerrainDef Name="Sterilelux" ParentName="BFloor_MetalFloors">
+    <defName>Sterilelux</defName>
+    <label>Sterile Lux</label>
+    <description>Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</description>
+    <texturePath>Terrain/Surfaces/sterileplasteel</texturePath>
+    <statBases>
+      <Cleanliness>0.6</Cleanliness>
+      <WorkToBuild>3800</WorkToBuild>
+      <Beauty>2</Beauty>
+    </statBases>
+    <costList>
+      <Steel>6</Steel>
+      <Silver>20</Silver>
+      <Plasteel>3</Plasteel>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="AFloorRoyalGold" ParentName="BFloor_MetalFloors">
+    <defName>AFloorRoyalGold</defName>
+    <label>Royal Gold</label>
+    <description>Magnificent Royal Gold Floor.</description>
+    <texturePath>Terrain/Surfaces/goldtilx2</texturePath>
+    <statBases>
+      <WorkToBuild>3600</WorkToBuild>
+      <Beauty>6</Beauty>
+    </statBases>
+    <costList>
+      <Gold>80</Gold>
+      <BlocksSlate>2</BlocksSlate>
+      <BlocksMarble>2</BlocksMarble>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+  <TerrainDef Name="AFloorRoyalSilver" ParentName="BFloor_MetalFloors">
+    <defName>AFloorRoyalSilver</defName>
+    <label>Royal Silver</label>
+    <description>Magnificent Royal Silver Floor.</description>
+    <texturePath>Terrain/Surfaces/silverroyal2</texturePath>
+    <statBases>
+      <WorkToBuild>3600</WorkToBuild>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList>
+      <Silver>100</Silver>
+      <BlocksSlate>2</BlocksSlate>
+    </costList>
+	<tags>
+	  <li>FineFloor</li>
+	</tags>
+  </TerrainDef>
+</Defs>
