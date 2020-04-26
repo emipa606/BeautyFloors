@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<TerrainDef Name="BFloor_StoneFloors" Abstract="True">
-		<designatorDropdown>BeautyFloorsStone</designatorDropdown>
-		<designationCategory>Floors</designationCategory>
-		<fertility>0</fertility>
-		<constructEffect>ConstructDirt</constructEffect>
-		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-		<affordances>
-		  <li>Light</li>
-		  <li>Medium</li>
-		  <li>Heavy</li>
-		</affordances>
-		<edgeType>Hard</edgeType>
-		<layerable>true</layerable>
-	</TerrainDef>
+  <TerrainDef Name="BFloor_StoneFloors" Abstract="True">
+    <designatorDropdown>BeautyFloorsStone</designatorDropdown>
+    <designationCategory>Floors</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+  </TerrainDef>
   <TerrainDef Name="SandstoneTile" ParentName="BFloor_StoneFloors">
     <defName>SandstoneTile</defName>
     <label>Sandstone Tile</label>
@@ -52,9 +52,9 @@
     <costList>
       <BlocksSlate>9</BlocksSlate>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="LimestoneTile" ParentName="BFloor_StoneFloors">
     <defName>LimestoneTile</defName>
@@ -81,9 +81,9 @@
     <costList>
       <BlocksMarble>12</BlocksMarble>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="SlateLime" ParentName="BFloor_StoneFloors">
     <defName>SlateLime</defName>
@@ -139,9 +139,9 @@
     <costList>
       <PaintedStone>1</PaintedStone>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="PaintedStoneB" ParentName="BFloor_StoneFloors">
     <defName>PaintedStoneB</defName>
@@ -155,9 +155,9 @@
     <costList>
       <PaintedStone>1</PaintedStone>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="PaintedStoneC" ParentName="BFloor_StoneFloors">
     <defName>PaintedStoneC</defName>
@@ -171,9 +171,9 @@
     <costList>
       <PaintedStone>1</PaintedStone>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="PaintedStoneD" ParentName="BFloor_StoneFloors">
     <defName>PaintedStoneD</defName>
@@ -187,8 +187,8 @@
     <costList>
       <PaintedStone>1</PaintedStone>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
 </Defs>

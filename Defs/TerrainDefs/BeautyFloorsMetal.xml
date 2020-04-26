@@ -1,20 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<TerrainDef Name="BFloor_MetalFloors" Abstract="True">
-		<designatorDropdown>BeautyFloorsMetal</designatorDropdown>
-		<designationCategory>Floors</designationCategory>
-		<fertility>0</fertility>
-		<constructEffect>ConstructMetal</constructEffect>
-		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-		<affordances>
-		  <li>Light</li>
-		  <li>Medium</li>
-		  <li>Heavy</li>
-		</affordances>
-		<edgeType>Hard</edgeType>
-		<layerable>true</layerable>
-	</TerrainDef>
-	
+  <TerrainDef Name="BFloor_MetalFloors" Abstract="True">
+    <designatorDropdown>BeautyFloorsMetal</designatorDropdown>
+    <designationCategory>Floors</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructMetal</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+  </TerrainDef>
   <TerrainDef Name="BFloorPlasteel" ParentName="BFloor_MetalFloors">
     <defName>BFloorPlasteel</defName>
     <label>Plasteel Bars Mosaic</label>
@@ -27,9 +26,9 @@
     <costList>
       <Plasteel>10</Plasteel>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="AFloorPlasteel" ParentName="BFloor_MetalFloors">
     <defName>AFloorPlasteel</defName>
@@ -59,9 +58,9 @@
       <Silver>20</Silver>
       <Plasteel>3</Plasteel>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="AFloorRoyalGold" ParentName="BFloor_MetalFloors">
     <defName>AFloorRoyalGold</defName>
@@ -77,9 +76,9 @@
       <BlocksSlate>2</BlocksSlate>
       <BlocksMarble>2</BlocksMarble>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="AFloorRoyalSilver" ParentName="BFloor_MetalFloors">
     <defName>AFloorRoyalSilver</defName>
@@ -88,14 +87,14 @@
     <texturePath>Terrain/Surfaces/silverroyal2</texturePath>
     <statBases>
       <WorkToBuild>3600</WorkToBuild>
-      <Beauty>5</Beauty>
+      <Beauty>7</Beauty>
     </statBases>
     <costList>
       <Silver>100</Silver>
       <BlocksSlate>2</BlocksSlate>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
 </Defs>

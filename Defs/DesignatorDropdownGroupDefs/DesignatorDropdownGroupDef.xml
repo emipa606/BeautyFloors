@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<DesignatorDropdownGroupDef>
-		<defName>BeautyFloorsMetal</defName>
-	</DesignatorDropdownGroupDef>
-	
-	<DesignatorDropdownGroupDef>
-		<defName>BeautyFloorsNatural</defName>
-	</DesignatorDropdownGroupDef>
-	
-	<DesignatorDropdownGroupDef>
-		<defName>BeautyFloorsStone</defName>
-	</DesignatorDropdownGroupDef>
-	
-	<DesignatorDropdownGroupDef>
-		<defName>BeautyFloorsWood</defName>
-	</DesignatorDropdownGroupDef>
-	
+  <DesignatorDropdownGroupDef>
+    <defName>BeautyFloorsMetal</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>BeautyFloorsNatural</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>BeautyFloorsStone</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>BeautyFloorsWood</defName>
+  </DesignatorDropdownGroupDef>
 </Defs>

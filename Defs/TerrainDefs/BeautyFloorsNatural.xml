@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<TerrainDef Name="BFloor_NaturalFloors" Abstract="True">
-		<designatorDropdown>BeautyFloorsNatural</designatorDropdown>
-		<designationCategory>Floors</designationCategory>
-		<fertility>0</fertility>
-		<constructEffect>ConstructDirt</constructEffect>
-		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-		<affordances>
-		  <li>Light</li>
-		  <li>Medium</li>
-		  <li>Heavy</li>
-		</affordances>
-		<edgeType>Hard</edgeType>
-		<layerable>true</layerable>
-	</TerrainDef>
+  <TerrainDef Name="BFloor_NaturalFloors" Abstract="True">
+    <designatorDropdown>BeautyFloorsNatural</designatorDropdown>
+    <designationCategory>Floors</designationCategory>
+    <fertility>0</fertility>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+    </affordances>
+    <edgeType>Hard</edgeType>
+    <layerable>true</layerable>
+  </TerrainDef>
   <TerrainDef Name="AFloorJade" ParentName="BFloor_NaturalFloors">
     <defName>AFloorJade</defName>
     <label>Jade Large Tile</label>
@@ -26,9 +26,9 @@
     <costList>
       <Jade>11</Jade>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="BFloorJade" ParentName="BFloor_NaturalFloors">
     <defName>BFloorJade</defName>
@@ -42,9 +42,9 @@
     <costList>
       <Jade>10</Jade>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="Camelhidelele" ParentName="BFloor_NaturalFloors">
     <defName>Camelhidelele</defName>
@@ -97,9 +97,9 @@
     <costList>
       <ThrumbofurTile>7</ThrumbofurTile>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="Plainleatherlele" ParentName="BFloor_NaturalFloors">
     <defName>Plainleatherlele</defName>
@@ -191,9 +191,9 @@
     <costList>
       <RhinocerosleatherTile>8</RhinocerosleatherTile>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="carvedleather" ParentName="BFloor_NaturalFloors">
     <defName>carvedleather</defName>
@@ -207,9 +207,9 @@
     <costList>
       <CarvedLeather>1</CarvedLeather>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
   <TerrainDef Name="multicarvedleather" ParentName="BFloor_NaturalFloors">
     <defName>multicarvedleather</defName>
@@ -223,8 +223,8 @@
     <costList>
       <CarvedLeather>1</CarvedLeather>
     </costList>
-	<tags>
-	  <li>FineFloor</li>
-	</tags>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
   </TerrainDef>
 </Defs>
