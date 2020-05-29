@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoodPlanks.label>wood planks</WoodPlanks.label>
+  <WoodPlanks.description>Wooden planks for make beautiful floors.</WoodPlanks.description>
+
+  <BluefurTile.label>bluefur tile</BluefurTile.label>
+  <BluefurTile.description>Bluefur tile for make beautiful floors.</BluefurTile.description>
+
+  <PlainleatherTile.label>plain leather tile</PlainleatherTile.label>
+  <PlainleatherTile.description>Plain leather tile for make beautiful floors.</PlainleatherTile.description>
+
+  <CamelhideTile.label>camel hide tile</CamelhideTile.label>
+  <CamelhideTile.description>Camel hide tile for make beautiful floors.</CamelhideTile.description>
+
+  <LightleatherTile.label>light leather tile</LightleatherTile.label>
+  <LightleatherTile.description>Light leather tile for make beautiful floors.</LightleatherTile.description>
+
+  <ThrumbofurTile.label>thrumbo fur tile</ThrumbofurTile.label>
+  <ThrumbofurTile.description>Thrumbo fur tile for make beautiful floors.</ThrumbofurTile.description>
+
+  <BirdskinTile.label>bird skin tile</BirdskinTile.label>
+  <BirdskinTile.description>Bird skin tile for make beautiful floors.</BirdskinTile.description>
+
+  <LizardskinTile.label>lizard skin tile</LizardskinTile.label>
+  <LizardskinTile.description>Lizard skin tile for make beautiful floors.</LizardskinTile.description>
+
+  <BearskinTile.label>bear skin tile</BearskinTile.label>
+  <BearskinTile.description>Bear skin tile for make beautiful floors.</BearskinTile.description>
+
+  <PantherafurTile.label>panthera fur tile</PantherafurTile.label>
+  <PantherafurTile.description>Panthera fur tile for make beautiful floors.</PantherafurTile.description>
+
+  <PigskinTile.label>pig skin tile</PigskinTile.label>
+  <PigskinTile.description>Pig skin tile for make beautiful floors.</PigskinTile.description>
+
+  <RhinocerosleatherTile.label>rhinoceros leather tile</RhinocerosleatherTile.label>
+  <RhinocerosleatherTile.description>Rhinoceros leather tile for make beautiful floors.</RhinocerosleatherTile.description>
+
+  <CarvedLeather.label>carved leather</CarvedLeather.label>
+  <CarvedLeather.description>Carved leather tile for make beautiful floors.</CarvedLeather.description>
+
+  <PaintedStone.label>painted stone</PaintedStone.label>
+  <PaintedStone.description>Painted stone tile for make beautiful floors.</PaintedStone.description>
+
+
+</LanguageData>

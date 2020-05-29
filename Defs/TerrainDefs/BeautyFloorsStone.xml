@@ -13,6 +13,9 @@
     </affordances>
     <edgeType>Hard</edgeType>
     <layerable>true</layerable>
+    <researchPrerequisites>
+      <li>Stonecutting</li>
+    </researchPrerequisites>
   </TerrainDef>
   <TerrainDef Name="SandstoneTile" ParentName="BFloor_StoneFloors">
     <defName>SandstoneTile</defName>

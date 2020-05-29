@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <woodplanks.label>wood planks</woodplanks.label>
+  <woodplanks.verb>split</woodplanks.verb>
+  <woodplanks.gerund>splitting</woodplanks.gerund>
+
+  <cariboutile.label>caribou tile</cariboutile.label>
+  <cariboutile.verb>cut</cariboutile.verb>
+  <cariboutile.gerund>cutting</cariboutile.gerund>
+
+  <deertile.label>deer tile</deertile.label>
+  <deertile.verb>cut</deertile.verb>
+  <deertile.gerund>cutting</deertile.gerund>
+
+  <alpacatile.label>alpaca tile</alpacatile.label>
+  <alpacatile.verb>cut</alpacatile.verb>
+  <alpacatile.gerund>cutting</alpacatile.gerund>
+
+  <muffalotile.label>muffalo tile</muffalotile.label>
+  <muffalotile.verb>cut</muffalotile.verb>
+  <muffalotile.gerund>cutting</muffalotile.gerund>
+
+  <thrumbotile.label>thrumbo tile</thrumbotile.label>
+  <thrumbotile.verb>cut</thrumbotile.verb>
+  <thrumbotile.gerund>cutting</thrumbotile.gerund>
+
+  <cobratile.label>cobra tile</cobratile.label>
+  <cobratile.verb>cut</cobratile.verb>
+  <cobratile.gerund>cutting</cobratile.gerund>
+
+  <iguanatile.label>iguana tile</iguanatile.label>
+  <iguanatile.verb>cut</iguanatile.verb>
+  <iguanatile.gerund>cutting</iguanatile.gerund>
+
+  <carvedleather.label>carved leather</carvedleather.label>
+  <carvedleather.verb>carve</carvedleather.verb>
+  <carvedleather.gerund>carved</carvedleather.gerund>
+
+  <paintedStone.label>painted stone</paintedStone.label>
+  <paintedStone.verb>paint</paintedStone.verb>
+  <paintedStone.gerund>painted</paintedStone.gerund>
+
+
+</LanguageData>

@@ -13,6 +13,9 @@
     </affordances>
     <edgeType>Hard</edgeType>
     <layerable>true</layerable>
+    <researchPrerequisites>
+      <li>Smithing</li>
+    </researchPrerequisites>
   </TerrainDef>
   <TerrainDef Name="BFloorPlasteel" ParentName="BFloor_MetalFloors">
     <defName>BFloorPlasteel</defName>
@@ -61,6 +64,9 @@
     <tags>
       <li>FineFloor</li>
     </tags>
+    <researchPrerequisites>
+      <li>SterileMaterials</li>
+    </researchPrerequisites>
   </TerrainDef>
   <TerrainDef Name="AFloorRoyalGold" ParentName="BFloor_MetalFloors">
     <defName>AFloorRoyalGold</defName>

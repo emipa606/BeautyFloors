@@ -29,6 +29,9 @@
     <tags>
       <li>FineFloor</li>
     </tags>
+    <researchPrerequisites>
+      <li>Stonecutting</li>
+    </researchPrerequisites>
   </TerrainDef>
   <TerrainDef Name="BFloorJade" ParentName="BFloor_NaturalFloors">
     <defName>BFloorJade</defName>
@@ -45,6 +48,9 @@
     <tags>
       <li>FineFloor</li>
     </tags>
+    <researchPrerequisites>
+      <li>Stonecutting</li>
+    </researchPrerequisites>
   </TerrainDef>
   <TerrainDef Name="Camelhidelele" ParentName="BFloor_NaturalFloors">
     <defName>Camelhidelele</defName>

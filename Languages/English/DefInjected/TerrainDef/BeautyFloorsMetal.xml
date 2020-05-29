@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BFloorPlasteel.label>Plasteel Bars Mosaic</BFloorPlasteel.label>
+  <BFloorPlasteel.description>Expensive floor made with plasteel bars, requires a lot of work to build but at least it's beautiful and durable.</BFloorPlasteel.description>
+
+  <AFloorPlasteel.label>Plasteel plates</AFloorPlasteel.label>
+  <AFloorPlasteel.description>Floor made with plasteel plates, less expensive than the one made with bars, but also less beautiful.</AFloorPlasteel.description>
+
+  <Sterilelux.label>Sterile Lux</Sterilelux.label>
+  <Sterilelux.description>Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</Sterilelux.description>
+
+  <AFloorRoyalGold.label>Royal Gold</AFloorRoyalGold.label>
+  <AFloorRoyalGold.description>Magnificent Royal Gold Floor.</AFloorRoyalGold.description>
+
+  <AFloorRoyalSilver.label>Royal Silver</AFloorRoyalSilver.label>
+  <AFloorRoyalSilver.description>Magnificent Royal Silver Floor.</AFloorRoyalSilver.description>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AFloorJade.label>Jade Large Tile</AFloorJade.label>
+  <AFloorJade.description>Beautiful floor made with jade slabs, the slabs are carefully chosen to achieve a uniform effect.</AFloorJade.description>
+
+  <BFloorJade.label>Jade Tile</BFloorJade.label>
+  <BFloorJade.description>Beautiful floor made with jade tiles.</BFloorJade.description>
+
+  <Camelhidelele.label>Camel hide floor</Camelhidelele.label>
+  <Camelhidelele.description>Beautiful floor made with Camel hide.</Camelhidelele.description>
+
+  <Bluefloorlele.label>Bluefur floor</Bluefloorlele.label>
+  <Bluefloorlele.description>Beautiful floor made with Bluefur.</Bluefloorlele.description>
+
+  <Lightleatherlele.label>Light leather floor</Lightleatherlele.label>
+  <Lightleatherlele.description>Beautiful floor made with Light leather.</Lightleatherlele.description>
+
+  <Thrumbole.label>Thrumbo fur floor</Thrumbole.label>
+  <Thrumbole.description>Beautiful floor made with Thrumbo fur.</Thrumbole.description>
+
+  <Plainleatherlele.label>Plain leather floor</Plainleatherlele.label>
+  <Plainleatherlele.description>Beautiful floor made with Plain leather.</Plainleatherlele.description>
+
+  <Birdskinlele.label>Bird skin floor</Birdskinlele.label>
+  <Birdskinlele.description>Beautiful floor made with Bird skin.</Birdskinlele.description>
+
+  <Lizardskinlele.label>Lizard skin floor</Lizardskinlele.label>
+  <Lizardskinlele.description>Beautiful floor made with Lizard skin.</Lizardskinlele.description>
+
+  <Bearskinlele.label>Bear skin floor</Bearskinlele.label>
+  <Bearskinlele.description>Beautiful floor made with Bear skin.</Bearskinlele.description>
+
+  <Pantherafurlele.label>Panthera fur floor</Pantherafurlele.label>
+  <Pantherafurlele.description>Beautiful floor made with Panthera fur.</Pantherafurlele.description>
+
+  <Pigskinlele.label>Pig skin floor</Pigskinlele.label>
+  <Pigskinlele.description>Beautiful floor made with Pig skin.</Pigskinlele.description>
+
+  <Rhinocerosleatherlele.label>Rhinoceros leather floor</Rhinocerosleatherlele.label>
+  <Rhinocerosleatherlele.description>Beautiful floor made with Rhinoceros leather.</Rhinocerosleatherlele.description>
+
+  <carvedleather.label>carved leather</carvedleather.label>
+  <carvedleather.description>Beautiful floor made with carved leather.</carvedleather.description>
+
+  <multicarvedleather.label>multi carved leather</multicarvedleather.label>
+  <multicarvedleather.description>Beautiful floor made with carved leather, 256 different tile.</multicarvedleather.description>
+
+
+</LanguageData>
