@@ -8,6 +8,9 @@
       <li>Medium</li>
       <li>Heavy</li>
     </affordances>
+    <tags>
+      <li>Floor</li>
+    </tags>
     <designationCategory>Floors</designationCategory>
     <fertility>0</fertility>
     <constructEffect>ConstructWood</constructEffect>
