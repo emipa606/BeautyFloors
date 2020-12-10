@@ -1,23 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
   <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
-
   <BurnParquetFloor1.label>burned wood floor</BurnParquetFloor1.label>
   <BurnParquetFloor1.description>Burned-out wood plank flooring.</BurnParquetFloor1.description>
-
   <BurnParquetFloor2.label>burned wood floor</BurnParquetFloor2.label>
   <BurnParquetFloor2.description>Burned-out wood plank flooring.</BurnParquetFloor2.description>
-
   <BurnParquetFloor3.label>burned wood floor</BurnParquetFloor3.label>
   <BurnParquetFloor3.description>Burned-out wood plank flooring.</BurnParquetFloor3.description>
-
   <BurnParquetFloor4.label>burned wood floor</BurnParquetFloor4.label>
   <BurnParquetFloor4.description>Burned-out wood plank flooring.</BurnParquetFloor4.description>
-
   <BurnedCarpet.label>burned carpet</BurnedCarpet.label>
   <BurnedCarpet.description>Burned-out carpet.</BurnedCarpet.description>
-
-
 </LanguageData>

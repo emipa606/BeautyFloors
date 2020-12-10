@@ -107,8 +107,8 @@
   </TerrainDef>
   <TerrainDef Name="sandslate" ParentName="BFloor_StoneFloors">
     <defName>sandslate</defName>
-    <label>Sandstone and Limestone</label>
-    <description>Tiles made of sandstone and limestone.</description>
+    <label>Sandstone and Slate</label>
+    <description>Tiles made of sandstone and slate.</description>
     <texturePath>Terrain/Surfaces/sandslate</texturePath>
     <statBases>
       <WorkToBuild>2400</WorkToBuild>
@@ -122,7 +122,7 @@
   <TerrainDef Name="granitemarble" ParentName="BFloor_StoneFloors">
     <defName>granitemarble</defName>
     <label>Granite and Marble</label>
-    <description>Tiles made of sandstone and limestone.</description>
+    <description>Tiles made of granite and marble.</description>
     <texturePath>Terrain/Surfaces/granitemarble</texturePath>
     <statBases>
       <WorkToBuild>2400</WorkToBuild>

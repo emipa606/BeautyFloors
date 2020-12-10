@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <FloorWoodA.label>Vertical wood</FloorWoodA.label>
   <FloorWoodA.description>Simple but beautiful floor made with clear wooden boards.</FloorWoodA.description>
-
   <FloorWoodB.label>Mosaic wood</FloorWoodB.label>
   <FloorWoodB.description>Wooden tile mosaic, beautiful and cheap.</FloorWoodB.description>
-
   <FloorWoodC.label>Horizontal wood</FloorWoodC.label>
   <FloorWoodC.description>Wooden boards, made with the finest wood, beautiful colors.</FloorWoodC.description>
-
   <FloorWoodD.label>Diagonal wood</FloorWoodD.label>
   <FloorWoodD.description>Large wooden boards, made with dark wood.</FloorWoodD.description>
-
-
 </LanguageData>

@@ -10,10 +10,28 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of swefans mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of swefans mod
 https://ludeon.com/forums/index.php?topic=35547.0
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+- Added the "Floor"-tag to all floors to make them count for the All floored-requirement of some royals
+- Added the "Fine Floor"-tag to Plasteel Bars Mosaic, Sterile Lux, Royal Gold and Royal Silver, should now be fit for Royals.
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/BeautyFloors][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+Update of swefans mod
+https://ludeon.com/forums/index.php?topic=35547.0
+
+[img]https://i.imgur.com/wtwHAQu.png[/img]
 
 Support-chat:
 https://invite.gg/mlie
@@ -21,7 +39,10 @@ https://invite.gg/mlie
 Non-steam version:
 https://github.com/emipa606/BeautyFloors
 	
---- Original Description ---
+- Added the "Floor"-tag to all floors to make them count for the All floored-requirement of some royals
+- Added the "Fine Floor"-tag to Plasteel Bars Mosaic, Sterile Lux, Royal Gold and Royal Silver, should now be fit for Royals.
+
+|
 All the floors have at least 1 in the beauty stats, but they need a lot of resources and a lot of work, so I think it's balanced. 
 The novelty are the leather floors (at least I have never seen a mod with leather floors)
 
@@ -63,6 +84,5 @@ The novelty are the leather floors (at least I have never seen a mod with leathe
 *Pig skin tile
 *Bear skin tile
 *Carved Leather (Lion)
-*Carved Leather (Multi256)
-</description>
+*Carved Leather (Multi256)</description>
 </ModMetaData>

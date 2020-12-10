@@ -1,61 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MakeWoodPlanks.label>make wood planks</MakeWoodPlanks.label>
   <MakeWoodPlanks.description>Splitting logs to planks for make floors.</MakeWoodPlanks.description>
   <MakeWoodPlanks.jobString>Splitting logs.</MakeWoodPlanks.jobString>
-
   <MakeBluefurTile.label>make bluefur tiles</MakeBluefurTile.label>
   <MakeBluefurTile.description>Cut bluefur to tiles for make floors.</MakeBluefurTile.description>
   <MakeBluefurTile.jobString>Cutting leather.</MakeBluefurTile.jobString>
-
   <MakePlainleatherTile.label>make plainleather tiles</MakePlainleatherTile.label>
   <MakePlainleatherTile.description>Cut plainleather to tiles for make floors.</MakePlainleatherTile.description>
   <MakePlainleatherTile.jobString>Cutting leather.</MakePlainleatherTile.jobString>
-
   <MakeCamelhideTile.label>make camelhide tiles</MakeCamelhideTile.label>
   <MakeCamelhideTile.description>Cut camelhide to tiles for make floors.</MakeCamelhideTile.description>
   <MakeCamelhideTile.jobString>Cutting leather.</MakeCamelhideTile.jobString>
-
   <MakeLightleatherTile.label>make lightleather tiles</MakeLightleatherTile.label>
   <MakeLightleatherTile.description>Cut lightleather to tiles for make floors.</MakeLightleatherTile.description>
   <MakeLightleatherTile.jobString>Cutting leather.</MakeLightleatherTile.jobString>
-
   <MakeThrumbofurTile.label>make thrumbofur tiles</MakeThrumbofurTile.label>
   <MakeThrumbofurTile.description>Cut thrumbofur to tiles for make floors.</MakeThrumbofurTile.description>
   <MakeThrumbofurTile.jobString>Cutting leather.</MakeThrumbofurTile.jobString>
-
   <MakeBirdskinTile.label>make birdskin tiles</MakeBirdskinTile.label>
   <MakeBirdskinTile.description>Cut birdskin to tiles for make floors.</MakeBirdskinTile.description>
   <MakeBirdskinTile.jobString>Cutting leather.</MakeBirdskinTile.jobString>
-
   <MakeLizardskinTile.label>make lizardskin tiles</MakeLizardskinTile.label>
   <MakeLizardskinTile.description>Cut lizardskin to tiles for make floors.</MakeLizardskinTile.description>
   <MakeLizardskinTile.jobString>Cutting leather.</MakeLizardskinTile.jobString>
-
   <MakeBearskinTile.label>make bearskin tiles</MakeBearskinTile.label>
   <MakeBearskinTile.description>Cut bearskin to tiles for make floors.</MakeBearskinTile.description>
   <MakeBearskinTile.jobString>Cutting leather.</MakeBearskinTile.jobString>
-
   <MakePantherafurTile.label>make pantherafur tiles</MakePantherafurTile.label>
   <MakePantherafurTile.description>Cut panthera fur to tiles for make floors.</MakePantherafurTile.description>
   <MakePantherafurTile.jobString>Cutting leather.</MakePantherafurTile.jobString>
-
   <MakePigskinTile.label>make pigskin tiles</MakePigskinTile.label>
   <MakePigskinTile.description>Cut pigskin to tiles for make floors.</MakePigskinTile.description>
   <MakePigskinTile.jobString>Cutting leather.</MakePigskinTile.jobString>
-
   <MakeRhinocerosleatherTile.label>make rhinocerosleather tiles</MakeRhinocerosleatherTile.label>
   <MakeRhinocerosleatherTile.description>Cut rhinoceros leather to tiles for make floors.</MakeRhinocerosleatherTile.description>
   <MakeRhinocerosleatherTile.jobString>Cutting leather.</MakeRhinocerosleatherTile.jobString>
-
   <MakeCarvedLeather.label>make carved leather</MakeCarvedLeather.label>
   <MakeCarvedLeather.description>Carve leather for make tiles.</MakeCarvedLeather.description>
   <MakeCarvedLeather.jobString>Carving leather.</MakeCarvedLeather.jobString>
-
   <MakePaintedStone.label>make painted stone tile</MakePaintedStone.label>
   <MakePaintedStone.description>Painted stone for make floors.</MakePaintedStone.description>
   <MakePaintedStone.jobString>Painting stone.</MakePaintedStone.jobString>
-
-
 </LanguageData>

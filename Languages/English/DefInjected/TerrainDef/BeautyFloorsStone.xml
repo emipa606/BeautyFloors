@@ -1,41 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <SandstoneTile.label>Sandstone Tile</SandstoneTile.label>
   <SandstoneTile.description>Tile made of sandstone, beautiful warm colors.</SandstoneTile.description>
-
   <GraniteTile.label>Granite Tile</GraniteTile.label>
   <GraniteTile.description>Tile made of granite, very smooth..</GraniteTile.description>
-
   <SlateTile.label>Slate Tile</SlateTile.label>
   <SlateTile.description>Tile made of slate, very dark and elegant.</SlateTile.description>
-
   <LimestoneTile.label>Limestone Lux</LimestoneTile.label>
   <LimestoneTile.description>Mosaic made with limestone tiles with a central brighter tile.</LimestoneTile.description>
-
   <Marbletile.label>Marble Lux</Marbletile.label>
   <Marbletile.description>Mosaic made with marble tiles with a central brighter tile.</Marbletile.description>
-
   <SlateLime.label>Slate and Limestone</SlateLime.label>
   <SlateLime.description>Tiles made of slate and limestone.</SlateLime.description>
-
   <sandslate.label>Sandstone and Limestone</sandslate.label>
   <sandslate.description>Tiles made of sandstone and limestone.</sandslate.description>
-
   <granitemarble.label>Granite and Marble</granitemarble.label>
   <granitemarble.description>Tiles made of sandstone and limestone.</granitemarble.description>
-
   <PaintedStoneA.label>Painted Stone</PaintedStoneA.label>
   <PaintedStoneA.description>Floor made with painted stone tiles.</PaintedStoneA.description>
-
   <PaintedStoneB.label>Painted Stone Country</PaintedStoneB.label>
   <PaintedStoneB.description>Floor made with painted stone tiles.</PaintedStoneB.description>
-
   <PaintedStoneC.label>Painting The Starry Night</PaintedStoneC.label>
   <PaintedStoneC.description>Floor made with painted stone tiles. an Ancient painting of a Starry Night.</PaintedStoneC.description>
-
   <PaintedStoneD.label>Painting Impression Sunrise</PaintedStoneD.label>
   <PaintedStoneD.description>Floor made with painted stone tiles. an Ancient painting of a port.</PaintedStoneD.description>
-
-
 </LanguageData>
