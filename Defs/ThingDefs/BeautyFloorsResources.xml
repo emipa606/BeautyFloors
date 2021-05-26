@@ -1,6 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="ResourceBase" Name="BeautyResourceBase" Abstract="True">
+    <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+    <tradeability>Sellable</tradeability>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <statBases>
+      <Flammability>0</Flammability>
+      <MaxHitPoints>110</MaxHitPoints>
+      <Mass>0.1</Mass>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>WoodPlanks</defName>
     <label>wood planks</label>
     <description>Wooden planks for make beautiful floors.</description>
@@ -17,11 +32,8 @@
       <Mass>0.4</Mass>
       <DeteriorationRate>1</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>BluefurTile</defName>
     <label>bluefur tile</label>
     <description>Bluefur tile for make beautiful floors.</description>
@@ -31,16 +43,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>PlainleatherTile</defName>
     <label>plain leather tile</label>
     <description>Plain leather tile for make beautiful floors.</description>
@@ -50,16 +55,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>CamelhideTile</defName>
     <label>camel hide tile</label>
     <description>Camel hide tile for make beautiful floors.</description>
@@ -69,16 +67,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>LightleatherTile</defName>
     <label>light leather tile</label>
     <description>Light leather tile for make beautiful floors.</description>
@@ -88,16 +79,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>ThrumbofurTile</defName>
     <label>thrumbo fur tile</label>
     <description>Thrumbo fur tile for make beautiful floors.</description>
@@ -107,16 +91,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>BirdskinTile</defName>
     <label>bird skin tile</label>
     <description>Bird skin tile for make beautiful floors.</description>
@@ -126,16 +103,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>LizardskinTile</defName>
     <label>lizard skin tile</label>
     <description>Lizard skin tile for make beautiful floors.</description>
@@ -145,16 +115,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>BearskinTile</defName>
     <label>bear skin tile</label>
     <description>Bear skin tile for make beautiful floors.</description>
@@ -164,16 +127,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>PantherafurTile</defName>
     <label>panthera fur tile</label>
     <description>Panthera fur tile for make beautiful floors.</description>
@@ -183,16 +139,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>PigskinTile</defName>
     <label>pig skin tile</label>
     <description>Pig skin tile for make beautiful floors.</description>
@@ -202,16 +151,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>RhinocerosleatherTile</defName>
     <label>rhinoceros leather tile</label>
     <description>Rhinoceros leather tile for make beautiful floors.</description>
@@ -221,16 +163,9 @@
     </graphicData>
     <statBases>
       <MarketValue>3.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>CarvedLeather</defName>
     <label>carved leather</label>
     <description>Carved leather tile for make beautiful floors.</description>
@@ -240,16 +175,9 @@
     </graphicData>
     <statBases>
       <MarketValue>4.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="BeautyResourceBase">
     <defName>PaintedStone</defName>
     <label>painted stone</label>
     <description>Painted stone tile for make beautiful floors.</description>
@@ -259,13 +187,6 @@
     </graphicData>
     <statBases>
       <MarketValue>4.0</MarketValue>
-      <Flammability>0</Flammability>
-      <MaxHitPoints>110</MaxHitPoints>
-      <Mass>0.1</Mass>
-      <DeteriorationRate>2</DeteriorationRate>
     </statBases>
-    <thingCategories>
-      <li>Manufactured</li>
-    </thingCategories>
   </ThingDef>
 </Defs>
