@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -70,6 +71,7 @@ The novelty are the leather floors (at least I have never seen a mod with leathe
 *Bear skin tile
 *Carved Leather (Lion)
 *Carved Leather (Multi256)
+
 |
 All the floors have at least 1 in the beauty stats, but they need a lot of resources and a lot of work, so I think it's balanced. 
 The novelty are the leather floors (at least I have never seen a mod with leather floors)
@@ -125,4 +127,3 @@ The novelty are the leather floors (at least I have never seen a mod with leathe
 [/list]
 </description>
 </ModMetaData>
-
