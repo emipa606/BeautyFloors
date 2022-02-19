@@ -1,6 +1,6 @@
 # BeautyFloors
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of swefans mod
 https://ludeon.com/forums/index.php?topic=35547.0
@@ -8,19 +8,10 @@ https://ludeon.com/forums/index.php?topic=35547.0
 - Added the "Floor"-tag to all floors to make them count for the All floored-requirement of some royals
 - Added the "Fine Floor"-tag to Plasteel Bars Mosaic, Sterile Lux, Royal Gold and Royal Silver, should now be fit for Royals.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/BeautyFloors]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 All the floors have at least 1 in the beauty stats, but they need a lot of resources and a lot of work, so I think it's balanced. 
@@ -65,5 +56,17 @@ The novelty are the leather floors (at least I have never seen a mod with leathe
 *Bear skin tile
 *Carved Leather (Lion)
 *Carved Leather (Multi256)
+
+
+![Image](https://i.imgur.com/PwoNOj4.png)
+
+
+
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
 
 
