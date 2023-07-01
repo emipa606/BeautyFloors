@@ -1,5 +1,8 @@
 # Changelog for BeautyFloors
 
+1.4.2 - Removed redundant and erronious translation-files
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
