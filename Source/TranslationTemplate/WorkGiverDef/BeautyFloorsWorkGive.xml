@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alpaca tile -->
+  <alpacatile.label>alpaca tile</alpacatile.label>
+  <!-- EN: cutting -->
+  <alpacatile.gerund>cutting</alpacatile.gerund>
+  <!-- EN: cut -->
+  <alpacatile.verb>cut</alpacatile.verb>
+  <!-- EN: caribou tile -->
+  <cariboutile.label>caribou tile</cariboutile.label>
+  <!-- EN: cutting -->
+  <cariboutile.gerund>cutting</cariboutile.gerund>
+  <!-- EN: cut -->
+  <cariboutile.verb>cut</cariboutile.verb>
+  <!-- EN: carved leather -->
+  <carvedleather.label>carved leather</carvedleather.label>
+  <!-- EN: carved -->
+  <carvedleather.gerund>carved</carvedleather.gerund>
+  <!-- EN: carve -->
+  <carvedleather.verb>carve</carvedleather.verb>
+  <!-- EN: cobra tile -->
+  <cobratile.label>cobra tile</cobratile.label>
+  <!-- EN: cutting -->
+  <cobratile.gerund>cutting</cobratile.gerund>
+  <!-- EN: cut -->
+  <cobratile.verb>cut</cobratile.verb>
+  <!-- EN: deer tile -->
+  <deertile.label>deer tile</deertile.label>
+  <!-- EN: cutting -->
+  <deertile.gerund>cutting</deertile.gerund>
+  <!-- EN: cut -->
+  <deertile.verb>cut</deertile.verb>
+  <!-- EN: iguana tile -->
+  <iguanatile.label>iguana tile</iguanatile.label>
+  <!-- EN: cutting -->
+  <iguanatile.gerund>cutting</iguanatile.gerund>
+  <!-- EN: cut -->
+  <iguanatile.verb>cut</iguanatile.verb>
+  <!-- EN: muffalo tile -->
+  <muffalotile.label>muffalo tile</muffalotile.label>
+  <!-- EN: cutting -->
+  <muffalotile.gerund>cutting</muffalotile.gerund>
+  <!-- EN: cut -->
+  <muffalotile.verb>cut</muffalotile.verb>
+  <!-- EN: painted stone -->
+  <paintedStone.label>painted stone</paintedStone.label>
+  <!-- EN: painted -->
+  <paintedStone.gerund>painted</paintedStone.gerund>
+  <!-- EN: paint -->
+  <paintedStone.verb>paint</paintedStone.verb>
+  <!-- EN: thrumbo tile -->
+  <thrumbotile.label>thrumbo tile</thrumbotile.label>
+  <!-- EN: cutting -->
+  <thrumbotile.gerund>cutting</thrumbotile.gerund>
+  <!-- EN: cut -->
+  <thrumbotile.verb>cut</thrumbotile.verb>
+  <!-- EN: wood planks -->
+  <woodplanks.label>wood planks</woodplanks.label>
+  <!-- EN: splitting -->
+  <woodplanks.gerund>splitting</woodplanks.gerund>
+  <!-- EN: split -->
+  <woodplanks.verb>split</woodplanks.verb>
+</LanguageData>

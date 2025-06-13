@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make bearskin tiles -->
+  <MakeBearskinTile.label>make bearskin tiles</MakeBearskinTile.label>
+  <!-- EN: Cut bearskin to tiles for make floors. -->
+  <MakeBearskinTile.description>Cut bearskin to tiles for make floors.</MakeBearskinTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeBearskinTile.jobString>Cutting leather.</MakeBearskinTile.jobString>
+  <!-- EN: make birdskin tiles -->
+  <MakeBirdskinTile.label>make birdskin tiles</MakeBirdskinTile.label>
+  <!-- EN: Cut birdskin to tiles for make floors. -->
+  <MakeBirdskinTile.description>Cut birdskin to tiles for make floors.</MakeBirdskinTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeBirdskinTile.jobString>Cutting leather.</MakeBirdskinTile.jobString>
+  <!-- EN: make bluefur tiles -->
+  <MakeBluefurTile.label>make bluefur tiles</MakeBluefurTile.label>
+  <!-- EN: Cut bluefur to tiles for make floors. -->
+  <MakeBluefurTile.description>Cut bluefur to tiles for make floors.</MakeBluefurTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeBluefurTile.jobString>Cutting leather.</MakeBluefurTile.jobString>
+  <!-- EN: make camelhide tiles -->
+  <MakeCamelhideTile.label>make camelhide tiles</MakeCamelhideTile.label>
+  <!-- EN: Cut camelhide to tiles for make floors. -->
+  <MakeCamelhideTile.description>Cut camelhide to tiles for make floors.</MakeCamelhideTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeCamelhideTile.jobString>Cutting leather.</MakeCamelhideTile.jobString>
+  <!-- EN: make carved leather -->
+  <MakeCarvedLeather.label>make carved leather</MakeCarvedLeather.label>
+  <!-- EN: Carve leather for make tiles. -->
+  <MakeCarvedLeather.description>Carve leather for make tiles.</MakeCarvedLeather.description>
+  <!-- EN: Carving leather. -->
+  <MakeCarvedLeather.jobString>Carving leather.</MakeCarvedLeather.jobString>
+  <!-- EN: make lightleather tiles -->
+  <MakeLightleatherTile.label>make lightleather tiles</MakeLightleatherTile.label>
+  <!-- EN: Cut lightleather to tiles for make floors. -->
+  <MakeLightleatherTile.description>Cut lightleather to tiles for make floors.</MakeLightleatherTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeLightleatherTile.jobString>Cutting leather.</MakeLightleatherTile.jobString>
+  <!-- EN: make lizardskin tiles -->
+  <MakeLizardskinTile.label>make lizardskin tiles</MakeLizardskinTile.label>
+  <!-- EN: Cut lizardskin to tiles for make floors. -->
+  <MakeLizardskinTile.description>Cut lizardskin to tiles for make floors.</MakeLizardskinTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeLizardskinTile.jobString>Cutting leather.</MakeLizardskinTile.jobString>
+  <!-- EN: make painted stone tile -->
+  <MakePaintedStone.label>make painted stone tile</MakePaintedStone.label>
+  <!-- EN: Painted stone for make floors. -->
+  <MakePaintedStone.description>Painted stone for make floors.</MakePaintedStone.description>
+  <!-- EN: Painting stone. -->
+  <MakePaintedStone.jobString>Painting stone.</MakePaintedStone.jobString>
+  <!-- EN: make pantherafur tiles -->
+  <MakePantherafurTile.label>make pantherafur tiles</MakePantherafurTile.label>
+  <!-- EN: Cut panthera fur to tiles for make floors. -->
+  <MakePantherafurTile.description>Cut panthera fur to tiles for make floors.</MakePantherafurTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakePantherafurTile.jobString>Cutting leather.</MakePantherafurTile.jobString>
+  <!-- EN: make pigskin tiles -->
+  <MakePigskinTile.label>make pigskin tiles</MakePigskinTile.label>
+  <!-- EN: Cut pigskin to tiles for make floors. -->
+  <MakePigskinTile.description>Cut pigskin to tiles for make floors.</MakePigskinTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakePigskinTile.jobString>Cutting leather.</MakePigskinTile.jobString>
+  <!-- EN: make plainleather tiles -->
+  <MakePlainleatherTile.label>make plainleather tiles</MakePlainleatherTile.label>
+  <!-- EN: Cut plainleather to tiles for make floors. -->
+  <MakePlainleatherTile.description>Cut plainleather to tiles for make floors.</MakePlainleatherTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakePlainleatherTile.jobString>Cutting leather.</MakePlainleatherTile.jobString>
+  <!-- EN: make rhinocerosleather tiles -->
+  <MakeRhinocerosleatherTile.label>make rhinocerosleather tiles</MakeRhinocerosleatherTile.label>
+  <!-- EN: Cut rhinoceros leather to tiles for make floors. -->
+  <MakeRhinocerosleatherTile.description>Cut rhinoceros leather to tiles for make floors.</MakeRhinocerosleatherTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeRhinocerosleatherTile.jobString>Cutting leather.</MakeRhinocerosleatherTile.jobString>
+  <!-- EN: make thrumbofur tiles -->
+  <MakeThrumbofurTile.label>make thrumbofur tiles</MakeThrumbofurTile.label>
+  <!-- EN: Cut thrumbofur to tiles for make floors. -->
+  <MakeThrumbofurTile.description>Cut thrumbofur to tiles for make floors.</MakeThrumbofurTile.description>
+  <!-- EN: Cutting leather. -->
+  <MakeThrumbofurTile.jobString>Cutting leather.</MakeThrumbofurTile.jobString>
+  <!-- EN: make wood planks -->
+  <MakeWoodPlanks.label>make wood planks</MakeWoodPlanks.label>
+  <!-- EN: Splitting logs to planks for make floors. -->
+  <MakeWoodPlanks.description>Splitting logs to planks for make floors.</MakeWoodPlanks.description>
+  <!-- EN: Splitting logs. -->
+  <MakeWoodPlanks.jobString>Splitting logs.</MakeWoodPlanks.jobString>
+</LanguageData>

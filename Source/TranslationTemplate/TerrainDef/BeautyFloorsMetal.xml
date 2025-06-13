@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Plasteel plates -->
+  <AFloorPlasteel.label>Plasteel plates</AFloorPlasteel.label>
+  <!-- EN: Floor made with plasteel plates, less expensive than the one made with bars, but also less beautiful. -->
+  <AFloorPlasteel.description>Floor made with plasteel plates, less expensive than the one made with bars, but also less beautiful.</AFloorPlasteel.description>
+  <!-- EN: Royal Gold -->
+  <AFloorRoyalGold.label>Royal Gold</AFloorRoyalGold.label>
+  <!-- EN: Magnificent Royal Gold Floor. -->
+  <AFloorRoyalGold.description>Magnificent Royal Gold Floor.</AFloorRoyalGold.description>
+  <!-- EN: Royal Silver -->
+  <AFloorRoyalSilver.label>Royal Silver</AFloorRoyalSilver.label>
+  <!-- EN: Magnificent Royal Silver Floor. -->
+  <AFloorRoyalSilver.description>Magnificent Royal Silver Floor.</AFloorRoyalSilver.description>
+  <!-- EN: Plasteel Bars Mosaic -->
+  <BFloorPlasteel.label>Plasteel Bars Mosaic</BFloorPlasteel.label>
+  <!-- EN: Expensive floor made with plasteel bars, requires a lot of work to build but at least it's beautiful and durable. -->
+  <BFloorPlasteel.description>Expensive floor made with plasteel bars, requires a lot of work to build but at least it's beautiful and durable.</BFloorPlasteel.description>
+  <!-- EN: Sterile Lux -->
+  <Sterilelux.label>Sterile Lux</Sterilelux.label>
+  <!-- EN: Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections. -->
+  <Sterilelux.description>Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</Sterilelux.description>
+</LanguageData>

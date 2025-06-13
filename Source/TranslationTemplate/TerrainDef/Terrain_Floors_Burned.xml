@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: burned carpet -->
+  <BurnedCarpet.label>burned carpet</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
+  <BurnedCarpet.description>Burned-out carpet.</BurnedCarpet.description>
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
+  <!-- EN: burned wood floor -->
+  <BurnParquetFloor1.label>burned wood floor</BurnParquetFloor1.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnParquetFloor1.description>Burned-out wood plank flooring.</BurnParquetFloor1.description>
+  <!-- EN: burned wood floor -->
+  <BurnParquetFloor2.label>burned wood floor</BurnParquetFloor2.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnParquetFloor2.description>Burned-out wood plank flooring.</BurnParquetFloor2.description>
+  <!-- EN: burned wood floor -->
+  <BurnParquetFloor3.label>burned wood floor</BurnParquetFloor3.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnParquetFloor3.description>Burned-out wood plank flooring.</BurnParquetFloor3.description>
+  <!-- EN: burned wood floor -->
+  <BurnParquetFloor4.label>burned wood floor</BurnParquetFloor4.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnParquetFloor4.description>Burned-out wood plank flooring.</BurnParquetFloor4.description>
+</LanguageData>

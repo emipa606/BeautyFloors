@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ancient Granite Tile -->
+  <AncientGraniteTile.label>Ancient Granite Tile</AncientGraniteTile.label>
+  <!-- EN: Tile made of granite, very smooth.. -->
+  <AncientGraniteTile.description>Tile made of granite, very smooth..</AncientGraniteTile.description>
+  <!-- EN: Ancient Limestone Lux -->
+  <AncientLimestoneTile.label>Ancient Limestone Lux</AncientLimestoneTile.label>
+  <!-- EN: Mosaic made with limestone tiles with a central brighter tile. -->
+  <AncientLimestoneTile.description>Mosaic made with limestone tiles with a central brighter tile.</AncientLimestoneTile.description>
+  <!-- EN: Ancient Marble Lux -->
+  <AncientMarbletile.label>Ancient Marble Lux</AncientMarbletile.label>
+  <!-- EN: Mosaic made with marble tiles with a central brighter tile. -->
+  <AncientMarbletile.description>Mosaic made with marble tiles with a central brighter tile.</AncientMarbletile.description>
+  <!-- EN: Ancient Sandstone and Limestone -->
+  <Ancientsandslate.label>Ancient Sandstone and Limestone</Ancientsandslate.label>
+  <!-- EN: Ancient Tiles made of sandstone and limestone. -->
+  <Ancientsandslate.description>Ancient Tiles made of sandstone and limestone.</Ancientsandslate.description>
+  <!-- EN: Ancient Sandstone Tile -->
+  <AncientSandstoneTile.label>Ancient Sandstone Tile</AncientSandstoneTile.label>
+  <!-- EN: Tile made of sandstone, beautiful warm colors. -->
+  <AncientSandstoneTile.description>Tile made of sandstone, beautiful warm colors.</AncientSandstoneTile.description>
+  <!-- EN: Ancient Slate and Limestone -->
+  <AncientSlateLime.label>Ancient Slate and Limestone</AncientSlateLime.label>
+  <!-- EN: Tiles made of slate and limestone. -->
+  <AncientSlateLime.description>Tiles made of slate and limestone.</AncientSlateLime.description>
+  <!-- EN: Ancient Slate Tile -->
+  <AncientSlateTile.label>Ancient Slate Tile</AncientSlateTile.label>
+  <!-- EN: Tile made of slate, very dark and elegant. -->
+  <AncientSlateTile.description>Tile made of slate, very dark and elegant.</AncientSlateTile.description>
+  <!-- EN: Ancient Sterile -->
+  <AncientSterile.label>Ancient Sterile</AncientSterile.label>
+  <!-- EN: Ancient sterile tile, to make it need a lot of material and time, but it helps to prevent infections. -->
+  <AncientSterile.description>Ancient sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</AncientSterile.description>
+  <!-- EN: Ancient Sterile Lux -->
+  <AncientSterilelux.label>Ancient Sterile Lux</AncientSterilelux.label>
+  <!-- EN: Ancient Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections. -->
+  <AncientSterilelux.description>Ancient Luxurious sterile tile, to make it need a lot of material and time, but it helps to prevent infections.</AncientSterilelux.description>
+</LanguageData>
