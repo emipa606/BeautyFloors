@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <HugsLib.UpdateFeatureDef Abstract="true" Name="BeautyFloors_UpdateFeatureBase">
     <modNameReadable>BeautyFloors</modNameReadable>
@@ -9,4 +9,10 @@
     <assemblyVersion>1.0.2.0</assemblyVersion>
     <content>Added the correct research-requirements for the different floors. Metal-based floors now requires Smithing, stone and jade-floors require stonecutting and the sterile-lux floor require sterile materials-research.</content>
   </HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="BeautyFloors_UpdateFeatureBase">
+		<defName>BeautyFloors_1_5_0</defName>
+		<assemblyVersion>1.5.0</assemblyVersion>
+		<content>This mod has been re-released for the new version of the game. This version will remain but will not be updated further.</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
+
