@@ -1,4 +1,4 @@
-# [BeautyFloors (Continued)]()
+# [BeautyFloors (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3498407243)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -71,4 +71,6 @@ The novelty are the leather floors (at least I have never seen a mod with leathe
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/BeautyFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3498407243) | tags:  luxury, flooring

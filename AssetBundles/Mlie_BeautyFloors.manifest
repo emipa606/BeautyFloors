@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 530141749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c50bf74f1d7002466af6a996f425e93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5c50bf74f1d7002466af6a996f425e93
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Bearlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/sandstone.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Pantheralee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/sandslate.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Building/Production/Beautybench_east.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/LightleatherFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Birdskinlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone2.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Building/Production/Beautybench_south.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/paintedstone4.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/SlateLime.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/lizardskinFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/WoodPlankslee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/marblemosaic.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/granite.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/birdskinFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/plainleatherFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/pigskinFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/sterileplasteel.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Bluefurlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/paintedstone2.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/slatetile.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/paintedtile.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/jadefloooor11.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/camelhideFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/bearskinFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Thrumlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/granitemarble.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/crved256.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/carvedlog.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/BurnParquetFloor2.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/silverroyal2.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Lizardskinlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/jadefloooor01.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/plastbars.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/ParquetFloor4.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/carvedlogcraft.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/BurnParquetFloor4.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Rhinolee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/BluefurFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/ParquetFloor1.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Lightleatherlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/ParquetFloor2.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone5.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone3.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/paintedstone1.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Camelhidelee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientSterile2.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/1carvedlog.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/limestonemosaic.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Piglee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/ParquetFloor3.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/rhinocerosleatherFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/thrumfurFL.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/BurnParquetFloor1.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Item/Resource/Plainleatherlee.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/paintedstone3.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/BurnParquetFloor3.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Things/Building/Production/Beautybench_north.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone4.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientSterile.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/plastplat.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone1.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/goldtilx2.jpg
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/AncientStone6.png
+- Assets/Data/Mlie.BeautyFloors/Textures/Terrain/Surfaces/pantherafurFL.png
+Dependencies: []
