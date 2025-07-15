@@ -3,10 +3,16 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-14T19:02:15.86201+02:00",
+  "LastXmlCleaning": "2025-07-15T20:52:08.2828404+02:00",
   "SocialImageSet": true,
   "SearchTags": [
     " luxury",
     "flooring"
-  ]
+  ],
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 57455,
+  "CodeBaseSize": 75
 }
